@@ -1,4 +1,4 @@
-# Attendence-db
+# Easy-Attendance
 
 <table>
   <tr>

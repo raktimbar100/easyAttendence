@@ -2,25 +2,28 @@
 
 <table>
   <tr>
-    
-    <th><img style="height:490px;width:210px;" src="https://user-images.githubusercontent.com/83878346/221404476-90e68b1d-dbd0-4b60-ab95-4893aa8e43eb.jpeg"></th>
-    <th><img style="height:490px;width:210px;" src="https://user-images.githubusercontent.com/83878346/221404485-1ac82628-25f0-4eb8-844f-27786a71500e.jpeg"></th>
-    <th><img style="height:490px;width:210px;" src="https://user-images.githubusercontent.com/83878346/221404523-8525d532-b03c-42b5-b485-9217d62616cf.jpeg"></th>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
   </tr>
- </table>
- 
- <table>
   <tr>
-   
-    <th><img style="height:490px;width:210px;" src="https://user-images.githubusercontent.com/83878346/221404536-dbb24165-cabf-4989-bd27-6e94bce85f1f.jpeg"></th>
-    <th><img style="height:490px;width:210px;" src="https://user-images.githubusercontent.com/83878346/221404594-4143dd88-dd5a-4082-8a61-79c1e8c36835.jpeg"></th>
-     <th><img style="height:490px;width:210px;" src="https://user-images.githubusercontent.com/83878346/221404598-cb145097-dc99-4770-a595-89532d27de0c.jpeg"></th>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
   </tr>
-  </table> 
-  <table>
   <tr>
-   
-    <th><img style="height:490px;width:210px;" src="https://user-images.githubusercontent.com/83878346/221404603-1f565197-0a94-458a-89d6-8cf979aa552a.jpeg"></th>
-    <th><img style="height:490px;width:210px;" src="https://user-images.githubusercontent.com/83878346/221404606-886e5511-ba30-409c-af92-20a10312cf84.jpeg"></th>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
   </tr>
-  </table> 
+</table>
+
+
+<img style="height:390px;width:190px;" src="https://github.com/raktimbar100/Attendence-db/blob/main/Screenshots/WhatsApp%20Image%202023-02-26%20at%2009.54.19.jpeg">
+<img style="height:390px;width:100px;" src="https://user-images.githubusercontent.com/91616950/221406929-50e98795-4870-4869-9e8d-9b822188303b.jpeg">
+<img style="height:390px;width:100px;" src="https://user-images.githubusercontent.com/91616950/221406962-7266c0b0-a706-46b4-a8cd-41bad84380dd.jpeg">
+<img style="height:390px;width:100px;" src="https://user-images.githubusercontent.com/91616950/221406970-b6c7fce5-7a45-42e5-a725-c4e656b9ce5a.jpeg">
+<img style="height:390px;width:100px;" src="https://user-images.githubusercontent.com/91616950/221407044-299123dc-b879-4295-801f-06c5aef1f0e6.jpeg">
+<img style="height:390px;width:100px;" src="https://user-images.githubusercontent.com/91616950/221407068-361bba8c-59b0-44ac-8bfb-457d8e763fd7.jpeg">
+<img style="height:390px;width:100px;" src="https://user-images.githubusercontent.com/91616950/221407077-f823e4ab-2023-417c-8521-e2794ced6628.jpeg">
+

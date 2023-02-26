@@ -1,5 +1,5 @@
 # Attendence-db
-<img style="height:490px;width:100px;" src="https://user-images.githubusercontent.com/83878346/221404476-90e68b1d-dbd0-4b60-ab95-4893aa8e43eb.jpeg">
+<img style="height:490px;width:190px;" src="https://user-images.githubusercontent.com/83878346/221404476-90e68b1d-dbd0-4b60-ab95-4893aa8e43eb.jpeg">
 
 ![WhatsApp Image 2023-02-26 at 09 54 19](https://user-images.githubusercontent.com/83878346/221404476-90e68b1d-dbd0-4b60-ab95-4893aa8e43eb.jpeg)
 
